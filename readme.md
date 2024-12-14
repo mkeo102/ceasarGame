@@ -4,4 +4,4 @@
 # How to use?
 - Either:
     - Run the main.py script found in src
-    - Run build.bat and run the resulting exe found at ./dist/main.exe
+    - Run build.bat then run the resulting exe found at ./dist/main.exe
